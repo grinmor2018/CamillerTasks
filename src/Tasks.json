@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "habitacio": "T910",
+      "nom": "Maik",
+      "hora": "16:00",
+      "transport": "Cadira",
+      "oxigen": "Si",
+      "desti": "R1",
+      "estat": "Demanat"
+
+    },
+    {
+      "habitacio": "T320",
+      "nom": "Norman",
+      "hora": "18:00",
+      "transport": "Camilla",
+      "oxigen": "No",
+      "desti": "R2",
+      "estat": "Portat"
+    },
+    {
+      "habitacio": "TPCC307",
+      "nom": "Lolo",
+      "hora": "20:00",
+      "transport": "Llit",
+      "oxigen": "Si",
+      "desti": "TAC TAULI",
+      "estat": "Tornat"
+    },
+    {
+      "habitacio": "TPCC222",
+      "nom": "Felipe",
+      "hora": "21:00",
+      "transport": "A peu",
+      "oxigen": "No",
+      "desti": "TAC UDIAT",
+      "estat":"Demanat"
+    }
+  ]
+}
